@@ -1,0 +1,41 @@
+#header
+{
+  color:green;
+  text-transform: uppercase;
+}
+
+#extrainfo
+{
+  font-size: 12px;
+  font-family: "calibri",cali,serif;
+}
+
+#dolphin
+{
+  position: absolute;
+
+  top: 60px;
+  left:250px;
+}
+
+.boxone {
+    width: 700px;
+    border: 2px dashed orange;
+    padding:0px;
+  }
+
+#turtle
+{
+  position: relative;
+
+  left:350px;
+  bottom: 3px;
+}
+
+.return
+{
+  position: fixed;
+  text-align:
+}
+
+.info p{color: blue;}
